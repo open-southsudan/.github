@@ -6,7 +6,9 @@ We build open source applications.
 To contribute to these cause you request for a pull and we give you the and you should be able to discuss on what you want to contribute towards our cause.
 Building solutions that are to help humanity is a great cause and you are all welcome for these beautiful cause.
 
+Open South Sudan is a non-profit organization that aims at building solutions for a safe community We build for the betterment of the community. we have to signation product thats Betna and Eventy
 
+South Sudan Number one Software development for Non- profit Organisations
 
 <!--
 
