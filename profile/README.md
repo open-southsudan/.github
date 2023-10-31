@@ -2,6 +2,11 @@
 Welcome to Open_south sudan a non-profit organization working and building solutions to help humanity.
 We build solutions to bring peace and eductional projects.
 
+We build open source applications.
+To contribute to these cause you request for a pull and we give you the and you should be able to discuss on what you want to contribute towards our cause.
+Building solutions that are to help humanity is a great cause and you are all welcome for these beautiful cause.
+
+
 
 <!--
 
